@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial" text-anchor="middle" fill="black" stroke="black">
+<rect x="50" y="60" width="220" height="90" fill="none" stroke-width="2"/><text x="160" y="105" stroke="none" font-size="22">Kali Linux</text><text x="160" y="132" stroke="none">/var/log/auth.log</text>
+<rect x="390" y="60" width="220" height="90" fill="none" stroke-width="2"/><text x="500" y="115" stroke="none" font-size="22">Filebeat</text>
+<rect x="730" y="60" width="220" height="90" fill="none" stroke-width="2"/><text x="840" y="105" stroke="none" font-size="22">Elasticsearch</text><text x="840" y="132" stroke="none">7.17.10 :9200</text>
+<line x1="270" y1="105" x2="390" y2="105" stroke-width="2"/><polygon points="390,105 375,97 375,113" fill="black"/>
+<line x1="610" y1="105" x2="730" y2="105" stroke-width="2"/><polygon points="730,105 715,97 715,113" fill="black"/>
+<rect x="390" y="250" width="220" height="90" fill="none" stroke-width="2"/><text x="500" y="305" stroke="none" font-size="22">Kibana</text><text x="500" y="330" stroke="none">7.17.10 :5601</text>
+<line x1="840" y1="150" x2="610" y2="280" stroke-width="2"/><polygon points="610,280 625,273 618,288" fill="black"/>
+<rect x="110" y="400" width="780" height="55" fill="none" stroke-width="2"/><text x="500" y="434" stroke="none" font-size="19">Discover • Dashboard • Detection Rules • Index Connector</text>
+<line x1="500" y1="340" x2="500" y2="400" stroke-width="2"/><polygon points="500,400 492,385 508,385" fill="black"/>
+</g></svg>

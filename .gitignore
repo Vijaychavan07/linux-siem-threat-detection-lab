@@ -1,0 +1,8 @@
+es-data-backup/
+data/
+*.log
+.env
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
